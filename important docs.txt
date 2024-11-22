@@ -1,0 +1,11 @@
+https://www.linkedin.com/pulse/how-fix-npm-file-cprogram-filesnodejsnpmps1-cannot-loaded-hasan-ojsnc
+https://stackoverflow.com/questions/35169911/build-cannot-use-jsx-unless-the-jsx-flag-is-provided
+https://www.youtube.com/watch?v=dz458ZkBMak
+ webpack server --config webpack.config.js
+https://dev.to/shivampawar/setup-micro-frontend-application-with-react-js-m87
+
+postman
+node
+nvm
+npm
+vs code
